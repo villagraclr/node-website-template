@@ -34,7 +34,7 @@
     "jsdom": "^16.4.0",
     "lodash": "^4.17.20",
     "method-override": "^3.0.0",
-    "mongoose": "^5.11.14",
+    "mongoose": "^6.13.12",
     "postcss": "^8.2.4",
     "serve-favicon": "^2.5.0",
     "validator": "^13.5.2"
